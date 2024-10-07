@@ -1,3 +1,0 @@
-/home/davide/retiDiCalcolatori/Project/progetto-reti/studente/cmake-build-debug/CMakeFiles/studente.dir
-/home/davide/retiDiCalcolatori/Project/progetto-reti/studente/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/davide/retiDiCalcolatori/Project/progetto-reti/studente/cmake-build-debug/CMakeFiles/rebuild_cache.dir
