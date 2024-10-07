@@ -1,0 +1,3 @@
+/home/davide/retiDiCalcolatori/Project/progetto-reti/universita/cmake-build-debug/CMakeFiles/universita.dir
+/home/davide/retiDiCalcolatori/Project/progetto-reti/universita/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/davide/retiDiCalcolatori/Project/progetto-reti/universita/cmake-build-debug/CMakeFiles/rebuild_cache.dir

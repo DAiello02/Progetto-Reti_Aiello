@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWrapper.a CMakeFiles/Wrapper.dir/wrapper.c.o
+/usr/bin/ranlib libWrapper.a
