@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/segreteria.dir/main.c.o -o segreteria  /home/davide/retiDiCalcolatori/Project/progetto-reti/Wrapper/cmake-build-debug/libWrapper.a 

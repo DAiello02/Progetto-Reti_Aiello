@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/studente.dir/main.c.o -o studente  /home/davide/retiDiCalcolatori/Project/progetto-reti/Wrapper/cmake-build-debug/libWrapper.a 
